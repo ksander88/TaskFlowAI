@@ -1,0 +1,15 @@
+C:\CSharp\TaskFlowAI\TaskFlowAI.Application\bin\Debug\net8.0\TaskFlowAI.Application.deps.json
+C:\CSharp\TaskFlowAI\TaskFlowAI.Application\bin\Debug\net8.0\TaskFlowAI.Application.dll
+C:\CSharp\TaskFlowAI\TaskFlowAI.Application\bin\Debug\net8.0\TaskFlowAI.Application.pdb
+C:\CSharp\TaskFlowAI\TaskFlowAI.Application\bin\Debug\net8.0\TaskFlowAI.Domain.dll
+C:\CSharp\TaskFlowAI\TaskFlowAI.Application\bin\Debug\net8.0\TaskFlowAI.Domain.pdb
+C:\CSharp\TaskFlowAI\TaskFlowAI.Application\obj\Debug\net8.0\TaskFlowAI.Application.csproj.AssemblyReference.cache
+C:\CSharp\TaskFlowAI\TaskFlowAI.Application\obj\Debug\net8.0\TaskFlowAI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\TaskFlowAI\TaskFlowAI.Application\obj\Debug\net8.0\TaskFlowAI.Application.AssemblyInfoInputs.cache
+C:\CSharp\TaskFlowAI\TaskFlowAI.Application\obj\Debug\net8.0\TaskFlowAI.Application.AssemblyInfo.cs
+C:\CSharp\TaskFlowAI\TaskFlowAI.Application\obj\Debug\net8.0\TaskFlowAI.Application.csproj.CoreCompileInputs.cache
+C:\CSharp\TaskFlowAI\TaskFlowAI.Application\obj\Debug\net8.0\TaskFlow.4E518749.Up2Date
+C:\CSharp\TaskFlowAI\TaskFlowAI.Application\obj\Debug\net8.0\TaskFlowAI.Application.dll
+C:\CSharp\TaskFlowAI\TaskFlowAI.Application\obj\Debug\net8.0\refint\TaskFlowAI.Application.dll
+C:\CSharp\TaskFlowAI\TaskFlowAI.Application\obj\Debug\net8.0\TaskFlowAI.Application.pdb
+C:\CSharp\TaskFlowAI\TaskFlowAI.Application\obj\Debug\net8.0\ref\TaskFlowAI.Application.dll

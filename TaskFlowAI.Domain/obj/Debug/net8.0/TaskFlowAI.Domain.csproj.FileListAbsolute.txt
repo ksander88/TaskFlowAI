@@ -1,0 +1,11 @@
+C:\CSharp\TaskFlowAI\TaskFlowAI.Domain\bin\Debug\net8.0\TaskFlowAI.Domain.deps.json
+C:\CSharp\TaskFlowAI\TaskFlowAI.Domain\bin\Debug\net8.0\TaskFlowAI.Domain.dll
+C:\CSharp\TaskFlowAI\TaskFlowAI.Domain\bin\Debug\net8.0\TaskFlowAI.Domain.pdb
+C:\CSharp\TaskFlowAI\TaskFlowAI.Domain\obj\Debug\net8.0\TaskFlowAI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\TaskFlowAI\TaskFlowAI.Domain\obj\Debug\net8.0\TaskFlowAI.Domain.AssemblyInfoInputs.cache
+C:\CSharp\TaskFlowAI\TaskFlowAI.Domain\obj\Debug\net8.0\TaskFlowAI.Domain.AssemblyInfo.cs
+C:\CSharp\TaskFlowAI\TaskFlowAI.Domain\obj\Debug\net8.0\TaskFlowAI.Domain.csproj.CoreCompileInputs.cache
+C:\CSharp\TaskFlowAI\TaskFlowAI.Domain\obj\Debug\net8.0\TaskFlowAI.Domain.dll
+C:\CSharp\TaskFlowAI\TaskFlowAI.Domain\obj\Debug\net8.0\refint\TaskFlowAI.Domain.dll
+C:\CSharp\TaskFlowAI\TaskFlowAI.Domain\obj\Debug\net8.0\TaskFlowAI.Domain.pdb
+C:\CSharp\TaskFlowAI\TaskFlowAI.Domain\obj\Debug\net8.0\ref\TaskFlowAI.Domain.dll
